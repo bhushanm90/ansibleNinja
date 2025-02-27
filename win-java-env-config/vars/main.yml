@@ -1,5 +1,0 @@
----
-# vars file for win-java-env-setup
-BaseJavaPath: "C:\\program Files\\Java"
-setJavaPathInfoStatus: []
-javaEnvPathStatus: []
